@@ -6,6 +6,6 @@ this is a repository for projects using the library React.
 
 ## Github API<a name="id01"></a>
 
-![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/Product_card_glass/gif.gif)
+![Preview](https://github.com/GiovanaBorges/Learning-reactJS/blob/main/github-api-react/image/preview.png)
 
-[My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/Product_card_glass)
+[My code](https://github.com/GiovanaBorges/Learning-reactJS/tree/main/github-api-react)
