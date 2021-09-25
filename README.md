@@ -1,4 +1,4 @@
-## HTML, CSS and JS Project.
+## ReactJS Projects
 
 this is a repository for projects using the library React.
 
