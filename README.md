@@ -13,6 +13,6 @@ this is a repository for projects using the library React.
 
 ## Naruto quotes<a name="id02"></a>
 
-![Preview](https://github.com/GiovanaBorges/Learning-reactJS/blob/main/naruto-quotes-client/preview.png)
+![Preview](https://github.com/GiovanaBorges/Learning-reactJS/blob/main/naruto-quotes/preview.png)
 
-[My code](https://github.com/GiovanaBorges/Learning-reactJS/blob/main/naruto-quotes-client)
+[My code](https://github.com/GiovanaBorges/Learning-reactJS/blob/main/naruto-quotes)
