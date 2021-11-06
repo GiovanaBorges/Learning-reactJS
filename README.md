@@ -22,4 +22,4 @@ this is a repository for projects using the library React.
 
 ![Preview](https://j.gifs.com/79nNDy.gif)
 
-[My code](https://github.com/GiovanaBorges/Learning-reactJS/blob/main/calculator)
+[My code](https://github.com/GiovanaBorges/Learning-reactJS/blob/main/calc)
