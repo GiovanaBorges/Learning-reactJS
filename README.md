@@ -4,6 +4,7 @@ this is a repository for projects using the library React.
 
 - [Github-Api](#id01)
 - [Naruto quotes](#id02)
+- [Calculator](#id03)
 
 ## Github API<a name="id01"></a>
 
@@ -16,3 +17,9 @@ this is a repository for projects using the library React.
 ![Preview](https://github.com/GiovanaBorges/Learning-reactJS/blob/main/naruto-quotes/preview.png)
 
 [My code](https://github.com/GiovanaBorges/Learning-reactJS/blob/main/naruto-quotes)
+
+## Calculator<a name="id03"></a>
+
+![Preview](https://j.gifs.com/79nNDy.gif)
+
+[My code](https://github.com/GiovanaBorges/Learning-reactJS/blob/main/calculator)
