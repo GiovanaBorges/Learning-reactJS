@@ -1,4 +1,4 @@
-# Calculator
+# todoList
 
 ### Um organizador de tarefas(todoList) onde você pode anotar suas tarefas , marcar como concluído e excluir=las.Além disso se você fechar o navegador não irá perder suas tarefas por que seus dados ficaram no LocalStorage.
 
