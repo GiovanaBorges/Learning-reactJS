@@ -25,7 +25,7 @@ this is a repository for projects using the library React.
 
 [My code](https://github.com/GiovanaBorges/Learning-reactJS/blob/main/calc)
 
-## TodoList<a name="id04"></a>
+## Todolist<a name="id04"></a>
 
 ![Preview](https://j.gifs.com/Br1Q3Y.gif)
 
