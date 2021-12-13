@@ -11,7 +11,7 @@ export const Btn = styled.button`
 
   margin: 1rem 0;
 
-  transition: 0.5s;
+  transition: 0.6s;
 
   &:hover {
     color: #eeeeee;
