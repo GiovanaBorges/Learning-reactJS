@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <>
       <WrapperNavbar>
-        <h1>FONTEGRANDEDOCACETE</h1>
+        <h1>ANIFLIX</h1>
       </WrapperNavbar>
     </>
   );
