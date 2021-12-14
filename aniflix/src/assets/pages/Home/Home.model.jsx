@@ -18,27 +18,48 @@ export const HomeWrapper = styled.div`
   font-weight: 300;
 
   margin-bottom: 1rem;
+
+  h1 {
+    font-size: 50px;
+    padding: 0.5rem;
+  }
 `;
 
 export const BoxContent = styled.div`
-  width: 100%;
+  margin: 0 auto;
+  
+  width: 70%;
 
-  display: flex;
   justify-content: center;
-  align-items: center;
+
+  display:grid;
+  grid-template-columns: auto auto auto auto;
+  
+  grid-gap: 0;
+
   color: ##eeeeee;
 
   div {
-    margin: 0 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
 
-    img {
-      max-height: 8rem;
+    margin: 0 0.5rem;
+
+    div.img_container{
+      height:50%;
 
       transition: 0.5s;
 
-      &:hover {
-        border: 1px solid #eeeeee;
+      img{
+        width: 100%;
+
+        padding:0.5rem;
       }
+
+    
+    }
     }
 
     h1 {
