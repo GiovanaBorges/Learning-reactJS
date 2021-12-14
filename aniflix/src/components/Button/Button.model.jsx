@@ -1,10 +1,13 @@
 import styled from "styled-components";
 
 export const Btn = styled.button`
-  background-color: #303030;
+  background-color: #141414;
   border: 1px solid black;
 
+  font-size: 18px;
+
   color: #5c5c5c;
+  border: 1px solid #5c5c5c;
 
   width: 15%;
   padding: 1rem 0;
@@ -15,6 +18,6 @@ export const Btn = styled.button`
 
   &:hover {
     color: #eeeeee;
-    border: 1px solid #5c5c5c;
+    border: 1px solid #eeeeee;
   }
 `;
