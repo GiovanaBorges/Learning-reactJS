@@ -1,0 +1,60 @@
+body {
+  background-color: #303030;
+  color: white;
+  font-family: "Nunito Sans", sans-serif;
+}
+
+form {
+  display: flex;
+  align-items: center;
+
+  flex-direction: column;
+
+  height: 100vh;
+
+  justify-content: center;
+}
+
+.card {
+  width: 35%;
+  display: flex;
+}
+.card img {
+  height: 100%;
+}
+
+.card h1 {
+  font-weight: 300;
+  font-size: 1.5em;
+}
+
+.card .pokemonName {
+  font-weight: 600;
+  font-size: 2.5em;
+}
+
+.search {
+  width: 70%;
+
+  display: flex;
+  justify-content: center;
+}
+
+.searchInput {
+  padding: 1rem;
+  font-size: 1em;
+}
+
+.searchBtn {
+  background-color: red;
+  border-radius: 5px;
+  color: white;
+
+  opacity: 0.5;
+  transition: 0.5s;
+}
+
+.searchBtn:hover {
+  opacity: 1;
+  cursor: pointer;
+}
