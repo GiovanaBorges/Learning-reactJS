@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+
+  background-color: hsl(0, 0%, 19%);
+  color: white;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  height: 100vh;
+}
+
+.pokemonSection {
+  width: 70%;
+  margin: 2rem auto;
+
+  height: auto;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(4, 1fr);
+}
+
+input,
+button {
+  padding: 2rem;
+  outline: none;
+  background-color: none;
+}
+
+button {
+  opacity: 0.5;
+  transition: 0.2s;
+  font-size: 1rem;
+}
+
+button:hover {
+  opacity: 1;
+}
+
+.pokemonBox {
+  height: auto;
+  padding: 1rem;
+  font-weight: 100;
+}
